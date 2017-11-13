@@ -80,7 +80,7 @@
     "strapi-generate-users": "~1.6.3",
     "unzip2": "~0.2.5",
     "waterline": "~0.10.28",
-    "waterline-graphql": "~1.1.0",
+    "waterline-graphql": "git+https://github.com/wilonth/nd-waterline-graphql.git",
     "winston": "~2.1.1"
   },
   "devDependencies": {
